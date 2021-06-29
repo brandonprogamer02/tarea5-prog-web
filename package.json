@@ -1,0 +1,19 @@
+{
+  "name": "tarea5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.6.8",
+    "mongoose": "^5.13.0"
+  }
+}
